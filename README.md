@@ -1,4 +1,4 @@
-# How-to-show-Save-Edit-Action-inside-Annotation-Toolbars-in-the-.NET-MAUI-ImageEditor-SfImageEditor
+# How to show Save Edit Action inside Annotation Toolbars in the .NET MAUI ImageEditor SfImageEditor
 This repository contains the sample code to show save edit action inside Annotation Toolbars in the [SfImageEditor](https://help.syncfusion.com/maui/imageeditor/getting-started).
 
 # Syncfusion controls
