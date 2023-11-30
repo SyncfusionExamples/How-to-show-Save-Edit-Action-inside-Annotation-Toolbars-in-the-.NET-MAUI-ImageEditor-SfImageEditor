@@ -1,0 +1,8 @@
+﻿<maui:MauiWinUIApplication
+    x:Class="ShowSaveEdit_ToolBars.WinUI.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:maui="using:Microsoft.Maui"
+    xmlns:local="using:ShowSaveEdit_ToolBars.WinUI">
+
+</maui:MauiWinUIApplication>
